@@ -1,0 +1,2 @@
+# detsadprim
+just static page
